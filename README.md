@@ -27,10 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mostafa" height="30" width="40" /></a>
-<a href="https://fb.com/محمد مصطفى" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمد مصطفى" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/doctornull/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doctornull/" height="30" width="40" /></a>
+<a href="https://fb.com/eng.mido55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eng.mido55/" height="30" width="40" /></a>
 <a href="https://medium.com/@mohamed.01061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamed.01061" height="30" width="40" /></a>
-<a href="https://discord.gg/0338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0338" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
