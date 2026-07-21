@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1C3C3C&height=200&section=header&text=Mohamed%20Mostafa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Teaching%20Assistant&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1C3C3C&height=200&section=header&text=Mohamed%20Mostafa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Teaching%20Assistant&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=doctornull&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="doctornull" />
 <img src="https://img.shields.io/badge/MSc-Computer%20Vision%20(in%20progress)-1C3C3C?style=for-the-badge" />
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=AI+Engineer+%26+Data+Scientist+%40+SELECT;Software+Engineer+(Freelance)+%E2%80%94+Full-Stack%2C+Desktop%2C+Mobile;Digital+Solution+Engineer+%26+Game+Dev+%40+Digital+Sphere+Solutions;Teaching+Assistant+%40+Ain+Shams+University;10+Years+of+Game+Development+%7C+5%2B+Years+of+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+Data+Scientist+%40+SELECT;Software+Engineer+(Freelance)+%E2%80%94+Full-Stack%2C+Desktop%2C+Mobile;Digital+Solution+Engineer+%26+Game+Dev+%40+Digital+Sphere+Solutions;Teaching+Assistant+%40+Ain+Shams+University;10+Years+of+Game+Development+%7C+5%2B+Years+of+AI" alt="Typing SVG" />
 
 </div>
 
