@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1C3C3C&height=200&section=header&text=Mohamed%20Mostafa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Teaching%20Assistant&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=doctornull&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="doctornull" />
+<img src="https://hits.sh/github.com/DoctorNULL.svg?style=for-the-badge&label=Profile%20views&color=0e75b6" alt="Profile views" />
 <img src="https://img.shields.io/badge/MSc-Computer%20Vision%20(in%20progress)-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Egypt-black?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
